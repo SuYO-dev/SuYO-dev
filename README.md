@@ -1,6 +1,6 @@
 [![Header](https://github.com/xyo-dev/xyo-dev/blob/master/header.png)]()
 
-### Languages and Tools:
+### Main Stack:
 
 <code>![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=TypeScript&logoColor)</code>
 <code>![React](https://img.shields.io/badge/-REACT-20232A?style=for-the-badge&logo=React&logoColor=blue)</code>
@@ -9,3 +9,4 @@
 <code>![Vite](https://img.shields.io/badge/-Vite-20232A?style=for-the-badge&logo=Vite&logoColor)</code>
 <code>![Yarn](https://img.shields.io/badge/-Yarn-20232A?style=for-the-badge&logo=Yarn&logoColor)</code>
 <code>![VSCODE](https://img.shields.io/badge/-VSCODE-20232A?style=for-the-badge&logo=VisualStudio&logoColor)</code>
+<code>![VSCODE](https://img.shields.io/badge/-And_other_tools-20232A?style=for-the-badge)</code>
