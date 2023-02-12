@@ -9,5 +9,5 @@
 <img src='https://img.shields.io/badge/-Vite-20232A?style=for-the-badge&logo=Vite&logoColor'>
 <img src='https://img.shields.io/badge/-Yarn-20232A?style=for-the-badge&logo=Yarn&logoColor'>
 <img src='https://img.shields.io/badge/-VSCODE-20232A?style=for-the-badge&logo=VisualStudio&logoColor'>
-<img src='https://img.shields.io/badge/-and_other-20232A?style=for-the-badge'>
+<img src='https://img.shields.io/badge/-and_other_tools-20232A?style=for-the-badge'>
 </div>
