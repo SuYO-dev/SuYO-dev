@@ -9,4 +9,4 @@
 <code>![Vite](https://img.shields.io/badge/-Vite-20232A?style=for-the-badge&logo=Vite&logoColor)</code>
 <code>![Yarn](https://img.shields.io/badge/-Yarn-20232A?style=for-the-badge&logo=Yarn&logoColor)</code>
 <code>![VSCODE](https://img.shields.io/badge/-VSCODE-20232A?style=for-the-badge&logo=VisualStudio&logoColor)</code>
-<code>![VSCODE](https://img.shields.io/badge/-other_tools-20232A?style=for-the-badge)</code>
+<code>![VSCODE](https://img.shields.io/badge/-and_other-20232A?style=for-the-badge)</code>
