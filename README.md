@@ -11,3 +11,13 @@
 <img src='https://img.shields.io/badge/-VSCODE-20232A?style=for-the-badge&logo=VisualStudio&logoColor'>
 <img src='https://img.shields.io/badge/-and_other_tools-20232A?style=for-the-badge'>
 </div>
+
+<div align='center' style='margin-top:50px;'>
+ <h3>Statistics</h3>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SuYO-dev&show_icons=true&theme=radical" />
+   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SuYO-dev&theme=radical&layout=compact" />
+</div>
+<br>
+<div align='center' style='margin-top:50px;'>
+  <img src='https://komarev.com/ghpvc/?username=SuYO-dev&style=for-the-badg'>
+</div
