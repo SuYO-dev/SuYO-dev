@@ -19,5 +19,5 @@
 </div>
 <br>
 <div align='center' style='margin-top:50px;'>
-  <img src='https://komarev.com/ghpvc/?username=SuYO-dev&style=for-the-badg'>
+  <a href="https://u8views.com/github/SuYO-dev"><img src="https://u8views.com/api/v1/github/profiles/125152870/views/day-week-month-total-count.svg"></a>
 </div
