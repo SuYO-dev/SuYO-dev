@@ -19,4 +19,17 @@
 <br>
 <div align='center'>
   <a href="https://u8views.com/github/SuYO-dev"><img src="https://u8views.com/api/v1/github/profiles/125152870/views/day-week-month-total-count.svg"></a>
-</div
+</div>
+
+<br />
+<div align='center'>
+   <a target="_blank" href="https://t.me/devian_dd">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+   <a target="_blank" href="https://mail.google.com/mail/?view=cm&source=mailto&to=dev.honcharenko@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+   <a target="_blank" href="https://www.linkedin.com/in/dev-honcharenko//">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+</div>
